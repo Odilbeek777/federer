@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'LR';
+    src: url(../fonts/Lobster-Regular.ttf);
+}
+@font-face {
+    font-family: 'LT';
+    src: url(../fonts/LobsterTwo-Regular.ttf);
+}
+@font-face {
+    font-family: 'MR';
+    src: url(../fonts/Mako-Regular.ttf);
+}
+@font-face {
+    font-family: 'RR';
+    src: url(../fonts/Roboto-Regular.ttf);
+}
+@font-face {
+    font-family: 'RM';
+    src: url(../fonts/Roboto-Medium.ttf);
+}
+@font-face {
+    font-family: 'RB';
+    src: url(../fonts/Roboto-Bold.ttf);
+}

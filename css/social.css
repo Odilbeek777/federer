@@ -1,0 +1,28 @@
+.social__link {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 33px 0;
+}
+
+.social__link-item a {
+    font-family: var(--LR);
+    font-size: 36px;
+    font-weight: 400;
+    line-height: 45px;
+    color: var(--black);
+    transition: 0.3s;
+}
+
+.social__link-item a:hover{
+    color: #FF0000;
+}
+
+
+@media screen and (max-width:790px) {
+    .social__link{
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 30px;
+    }
+}
